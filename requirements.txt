@@ -1,6 +1,6 @@
-discord.py==2.3.2
-google-generativeai==0.3.2
-openai==1.12.0
-requests==2.31.0
-flask==3.0.2
+discord.py
+google-generativeai
+openai
+requests
+flask
 audioop-lts
